@@ -22,12 +22,12 @@ linkedin: jorge-quesada-pacora-02234a44
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  My name is Jorge Quesada. I am a PhD candidate in the School of Electrical and Computer Engineering at the Georgia Institute of Technology. I work in the <a href="https://alregib.ece.gatech.edu/" target="_blank">OLIVES Lab</a> with Professor Ghassan AlRegib on <b>machine learning for scientific imaging</b>, where my current is focus on <b>seismic interpretation</b>. 
+  My name is Jorge Quesada. I am a PhD candidate in the School of Electrical and Computer Engineering at the Georgia Institute of Technology. I work in the <a href="https://alregib.ece.gatech.edu/" target="_blank">OLIVES Lab</a> with Professor Ghassan AlRegib on <b>machine learning for scientific imaging</b>, where my current focus is on <b>seismic interpretation</b>. 
   </p>
    <p>
     My current work at the OLIVES lab centers on building <b>self-supervised</b> and <b>domain-robust</b> representation learning methods and stress-testing them under real distribution shift. In past projects, I have also explored <b>human-in-the-loop</b> systems, such as uncertainty-aware annotations that capture labeler expertise and prompting strategies for the Segment Anything Model in order to make workflows more reliable and interpretable in practice. </p> 
     <p> Beyond these, I have also worked in representation learning for <b>neuroimaging</b>, as well as inverse problems and mathematical optimization. I’m broadly motivated by questions
-  at the intersection of <b>natural and artificial intelligence</b>—how brains and machines perceive, learn, and generalize—and I’m always excited to collaborate across domains.
+  at the intersection of <b>natural and artificial intelligence</b>: how brains and machines perceive, learn, and generalize. I’m always excited to collaborate across domains!
     </p>
 
 portrait_url: /assets/images/photos/jorge.jpg
