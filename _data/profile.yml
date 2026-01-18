@@ -73,6 +73,10 @@ experience:
   date: Jan. 2015 - Apr. 2015
 
 teaching:
+- name: Introduction to Signal Processing ECE 2026
+  logo: /assets/images/badges/georgia_tech.png
+  position: Teaching Fellow
+  date: Spring 2026
 - name: Generative and Geometric Deep Learning ECE 8803
   logo: /assets/images/badges/georgia_tech.png
   position: Course Developer and Graduate Teaching Assistant
