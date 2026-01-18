@@ -2,7 +2,6 @@
 title:          "A Large-scale Benchmark on Geological Fault Delineation Models: Domain Shift, Training Dynamics, Generalizability, Evaluation and Inferential Behavior"
 date:           2025-05-15 00:01:00 +0000
 selected:       true
-pub_pre:        "Submitted to "
 pub:            "IEEE Access"
 pub_date:       "2025"
 
