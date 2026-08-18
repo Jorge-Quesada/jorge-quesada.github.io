@@ -54,23 +54,27 @@ experience:
 - name: Georgia Institute of Technology
   logo: /assets/images/badges/georgia_tech.png
   position: Graduate Research Assistant
-  date: Aug. 2021 - present
+  date: Aug 2021 - present
+- name: Pfizer
+  logo: /assets/images/badges/pfizer.png
+  position: AI/ML Research Intern
+  date: May 2026 - Aug 2026
 - name: Sentinel
   logo: /assets/images/badges/sentinel.jpg
   position: Computer Vision Data Scientist
-  date: Jul 2020 - Dec. 2020
+  date: Jul 2020 - Dec 2020
 - name: Pontifical Catholic University of Peru
   logo: /assets/images/badges/pucp.png
   position: Graduate Researcher and Lecturer
-  date: Mar 2016 - Jun. 2020
+  date: Mar 2016 - Jun 2020
 - name: Los Alamos National Laboratory
   logo: /assets/images/badges/lanl.png
   position: Research Intern
-  date: Jan. 2017 - Apr. 2017
+  date: Jan 2017 - Apr 2017
 - name: Jicamarca Radio Observatory
   logo: /assets/images/badges/id.png
   position: Research Assistant
-  date: Jan. 2015 - Apr. 2015
+  date: Jan 2015 - Apr 2015
 
 teaching:
 - name: Introduction to Signal Processing ECE 2026
