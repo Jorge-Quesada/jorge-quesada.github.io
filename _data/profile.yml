@@ -22,13 +22,20 @@ linkedin: jorge-quesada-pacora-02234a44
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  My name is Jorge Quesada. I am a PhD candidate in the School of Electrical and Computer Engineering at the Georgia Institute of Technology. I work in the <a href="https://alregib.ece.gatech.edu/" target="_blank">OLIVES Lab</a> with Professor Ghassan AlRegib on <b>machine learning for scientific imaging</b>, where my current focus is on <b>seismic interpretation</b>. 
+  My name is Jorge Quesada. I am a PhD candidate in the School of Electrical and Computer Engineering at the Georgia Institute of Technology. I work in the <a href="https://alregib.ece.gatech.edu/" target="_blank">OLIVES Lab</a> with Professor Ghassan AlRegib, and I am a Computational Neural Engineering Training Program (CNTP) Scholar. I expect to graduate in <b>Fall 2026</b>.
   </p>
-   <p>
-    My current work at the OLIVES lab centers on building <b>self-supervised</b> and <b>domain-robust</b> representation learning methods and stress-testing them under real distribution shift. In past projects, I have also explored <b>human-in-the-loop</b> systems, such as uncertainty-aware annotations that capture labeler expertise and prompting strategies for the Segment Anything Model in order to make workflows more reliable and interpretable in practice. </p> 
-    <p> Beyond these, I have also worked in representation learning for <b>neuroimaging</b>, as well as inverse problems and mathematical optimization. I’m broadly motivated by questions
-  at the intersection of <b>natural and artificial intelligence</b>: how brains and machines perceive, learn, and generalize. I’m always excited to collaborate across domains!
-    </p>
+  <p>
+  My research focuses on <b>self-supervised representation learning</b> for <b>scientific imaging</b>. I study what self-supervised models actually learn, how choices like training scale shape their representations, and why that knowledge sometimes breaks down when models are transferred to new tasks and domains. My current work uses these insights to make pretraining and fine-tuning more reliable under <b>distribution shift</b>. I have also built large-scale benchmarks for <b>neuroimaging</b> and geoscience. In other projects, I explored <b>human-in-the-loop</b> systems, such as uncertainty-aware annotations that capture labeler expertise and prompting strategies for the Segment Anything Model.
+  </p>
+  <p>
+  In Summer 2026, I was an <b>AI/ML Research Intern at Pfizer</b>, where I built an automated imaging pipeline that computes clinical biomarkers from patient photos for a vitiligo clinical trial. I have also co-led the design of Georgia Tech's first graduate course on <b>Generative and Geometric Deep Learning</b>, which is now a recurring offering. Before my PhD, I worked on sparse representations, inverse problems, and optimization at PUCP in Peru and at Los Alamos National Laboratory.
+  </p>
+  <p>
+  I'm broadly motivated by questions at the intersection of <b>natural and artificial intelligence</b>: how brains and machines perceive, learn, and generalize.
+  </p>
+  <p>
+  <b>I am currently on the job market</b> for research scientist, research engineer, and applied scientist roles starting after graduation, and I'm open to relocation. Feel free to <a href="mailto:jpacora3@gatech.edu">reach out</a>!
+  </p>
 
 portrait_url: /assets/images/photos/jorge.jpg
 #portrait_caption: >-
